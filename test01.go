@@ -7,3 +7,7 @@ func Testing() string {
 func Testing2() string {
 	return "This is a test2"
 }
+
+func VersionTest() string {
+	return "This is for testing version tag"
+}
