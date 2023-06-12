@@ -1,6 +1,9 @@
 package test
 
+import "fmt"
+
 func Testing() string {
+	fmt.Println("from test01 git")
 	return "This is a test1"
 }
 
